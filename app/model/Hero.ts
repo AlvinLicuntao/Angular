@@ -1,4 +1,6 @@
 export class Hero {
 	id: Number;
-	name: String
+	name: String;
+	age: number;
+	sex: number;
 }
